@@ -1,0 +1,1 @@
+This GitHub README highlights a UI/UX mini project centered on a women's service app. Designed with simplicity and inclusivity, our app offers easy access to crucial services like healthcare and legal aid. Dive into our codebase to explore our user-friendly design and contribute to improving women's service accessibility.
